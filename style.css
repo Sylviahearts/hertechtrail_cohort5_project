@@ -148,6 +148,44 @@ a,
     -o-transition: all .3s ease-in-out;
     transition: all .3s ease-in-out;
 }
+.find{
+    background-image: url(uploads/blur.jfif);
+    background-size: cover;
+    height: 300px;
+    border-radius: 30px;
+    
+}
+.fb{
+    margin-right: 20px;
+    margin-top: 50px;
+}
+.fb:hover{
+    border: 2px solid white;
+    padding: 10px;
+}
+.wh{
+    margin-right: 20px;
+    margin-top: 50px;
+}
+.wh:hover{
+    border: 2px solid white;
+    padding: 10px;
+}
+.ig{
+    margin-right: 20px;
+    margin-top: 50px;
+}
+.ig:hover{
+    border: 2px solid white;
+    padding: 10px;
+}
+.ab-serv{
+    background-color: #948f8f;
+}
+.addy{
+    height: 210px;
+
+}
 
 .btn-custom {
     margin-top: 20px;
@@ -2352,7 +2390,7 @@ select.mobile-device {
 
 .copyrights {
     border-top: 1px dashed rgba(255, 255, 255, 0.1);
-    background-color: #1f1f1f;
+    background-color: #434141;
     box-sizing: border-box;
     width: 100%;
     text-align: center;
