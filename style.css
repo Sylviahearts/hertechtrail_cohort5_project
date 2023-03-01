@@ -378,12 +378,14 @@ a img.aligncenter {
 .navbar-dark .navbar-nav .nav-link.active{
 	color: #28a9e2;
 }
+.new-col{
+    color: #28a9e2;
+}
 .navbar-dark .navbar-nav .nav-link.active::after {
 	width: 100%;
 	height: 42px;
 	border-radius: 100px 100px 0px 100px;
 }
-
 
 #mainNav.navbar-shrink .navbar-nav .nav-link{
 	color: #28a9e2;
